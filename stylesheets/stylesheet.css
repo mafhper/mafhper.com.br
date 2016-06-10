@@ -14,7 +14,7 @@ body{background-color:#101010;font:400 1.375em/1.8 'Merriweather Sans';color:#ff
 
 .intro_logo{position:relative;width:100%;max-width:160px;min-height:160px;margin:0 auto;border-radius:200px;-webkit-transition:ease-in 300ms;-moz-transition:ease-in 300ms;-o-transition:ease-in 300ms;-ms-transition:ease-in 300ms;transition:ease-in 300ms;}
 
-.intro_logo:hover{border:2px solid #ffffff;background-color:#000;}
+.intro_logo:hover{background-color:#FFF;}
 
 .intro_header,.intro_text{width:96%;margin:0 auto;padding-top:30px;padding-bottom:30px;}
 
@@ -27,6 +27,11 @@ body{background-color:#101010;font:400 1.375em/1.8 'Merriweather Sans';color:#ff
 .logo_img{fill:#FFF;display:block;position:absolute;top:0;bottom:0;left:0;right:0;z-index:15;width:128px;height:auto;margin:auto;overflow:hidden;-webkit-transition:cubic-bezier(.68,-0.55,.27,1.55) 300ms;-moz-transition:cubic-bezier(.68,-0.55,.27,1.55) 300ms;-o-transition:cubic-bezier(.68,-0.55,.27,1.55) 300ms;-ms-transition:cubic-bezier(.68,-0.55,.27,1.55) 300ms;transition:cubic-bezier(.68,-0.55,.27,1.55) 300ms;}
 
 .logo_img:hover{-webkit-transform:scale(1.2);-moz-transform:scale(1.2);-o-transform:scale(1.2);-ms-transform:scale(1.2);transform:scale(1.2);}
+
+.logo_img:hover .logo-arrow{fill: #424242;}
+.logo-arrow{}
+.logo-base{}
+.logo-shadow{}
 
 .md{width:25%;}
 
