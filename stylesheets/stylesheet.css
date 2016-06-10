@@ -28,10 +28,7 @@ body{background-color:#101010;font:400 1.375em/1.8 'Merriweather Sans';color:#ff
 
 .logo_img:hover{-webkit-transform:scale(1.2);-moz-transform:scale(1.2);-o-transform:scale(1.2);-ms-transform:scale(1.2);transform:scale(1.2);}
 
-.logo_img:hover .logo-arrow{fill: #424242;}
-.logo-arrow{}
-.logo-base{}
-.logo-shadow{}
+.logo_img:hover .logo-arrow{fill: #293237;}
 
 .md{width:25%;}
 
