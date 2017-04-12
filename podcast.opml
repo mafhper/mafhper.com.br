@@ -9,17 +9,18 @@
       <outline type="rss" text="Canaltech Podcast" xmlUrl="https://canaltech.com.br/rss/podcast/" />
       <outline type="rss" text="RapaduraCast" xmlUrl="http://feeds.feedburner.com/rapaduracast" />
       <outline type="rss" text="Jogabilidade (Games)" xmlUrl="http://feeds.feedburner.com/dashpodcast" />
-      <outline type="rss" text="Devnaestrada" xmlUrl="http://devnaestrada.com.br/feed.xml" />
+      <outline type="rss" text="DEVNAESTRADA" xmlUrl="http://devnaestrada.com.br/feed.xml" />
       <outline type="rss" text="Cabulosocast" xmlUrl="http://leitorcabuloso.com.br/category/cabulosocast/feed/" />
       <outline type="rss" text="Masmorra" xmlUrl="http://www.podcastgarden.com/podcast/podcast-rss.php?id=7567" />
       <outline type="rss" text="MacMagazine no Ar" xmlUrl="http://feeds.feedburner.com/mmnoar" />
+      <outline type="rss" text="The Modern Maker Podcast" xmlUrl="https://ca-ns-1.bulkstorage.ca/v1/AUTH_0d09c87549084f4ba4ad4a9e807d0d76/7153/feeds/883IF.xml?temp_url_sig=063327e06342bcd0a030ebb251dafb43183f284d&amp;temp_url_expires=1804232077&amp;inline" />
       <outline type="rss" text="Canal Masculino" xmlUrl="http://feeds.feedburner.com/canalmasculino" />
       <outline type="rss" text="Central3 Podcasts - Xadrez Verbal" xmlUrl="http://www.central3.com.br/programa/xadrez-verbal/feed/" />
       <outline type="rss" text="RELOADING - Atualize-se, gamer!" xmlUrl="http://reloading.com.br/feed/podcast/" />
       <outline type="rss" text="Papo Lendário &gt;&gt; Mitografias" xmlUrl="http://feeds.feedburner.com/PLmitografias?" />
       <outline type="rss" text="Zing" xmlUrl="http://feeds.feedburner.com/soundcloud/KhQN" />
       <outline type="rss" text="Pouco Pixel" xmlUrl="http://poucopixel.com/feed/podcast/" />
-      <outline type="rss" text="ChupaCast » ChupaCast" xmlUrl="http://chupacast.com.br/feed/podcast/" />
+      <outline type="rss" text="ChupaCast" xmlUrl="http://www.chupacast.com.br/feed/podcast" />
       <outline type="rss" text="Podcasteros - Game of Thrones" xmlUrl="http://feeds.feedburner.com/soundcloud/TWhV" />
       <outline type="rss" text="PODCASTS – História Online" xmlUrl="http://feeds.feedburner.com/HistriaOnlinePodcasts" />
       <outline type="rss" text="Rádiofobia Podcasts" xmlUrl="http://radiofobia.com.br/podcast/category/podcast/feed//" />
@@ -36,10 +37,11 @@
       <outline type="rss" text="Decrépitos" xmlUrl="http://feeds.feedburner.com/decrepitos" />
       <outline type="rss" text="AntiCast" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:33711988/sounds.rss" />
       <outline type="rss" text="FAQ21 | Frequentes e Amplas Questões do séc. XXI" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:150281469/sounds.rss" />
-      <outline type="rss" text="Gugacast" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:33700067/sounds.rss" />
+      <outline type="rss" text="Gugacast" xmlUrl="http://gugacast.libsyn.com/rss" />
       <outline type="rss" text="PodQuest" xmlUrl="http://feeds.feedburner.com/doublejump/podquest" />
       <outline type="rss" text="Minuto de Silêncio" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:129291755/sounds.rss" />
       <outline type="rss" text="Jogabilidade (Não Games)" xmlUrl="HTTP://feeds.feedburner.com/jack-animeclub" />
+      <outline type="rss" text="Revolushow" xmlUrl="http://feeds.feedburner.com/Revolushow" />
       <outline type="rss" text="Escriba Cafe" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:82413921/sounds.rss" />
       <outline type="rss" text="Dragões de Garagem" xmlUrl="HTTP://feeds.feedburner.com/dragoesdegaragem" />
       <outline type="rss" text="MotherChip" xmlUrl="http://feeds.feedburner.com/motherchip" />
@@ -48,6 +50,7 @@
       <outline type="rss" text="NerdCast" xmlUrl="https://jovemnerd.com.br/feed-nerdcast/" />
       <outline type="rss" text="Bilheteria" xmlUrl="http://feeds.feedburner.com/over-bilheteria" />
       <outline type="rss" text="Frango Fino" xmlUrl="Http://feeds.feedburner.com/frangofinopodcast" />
+      <outline type="rss" text="Podcrastinadores" xmlUrl="http://podcrastinadores.com.br/feed/podcast" />
       <outline type="rss" text="Loop Matinal" xmlUrl="http://loopmatinal.libsyn.com/rss" />
       <outline type="rss" text="Portal Refil" xmlUrl="http://feeds.feedburner.com/PortalRefil" />
       <outline type="rss" text="O Drone Saltitante" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:226045701/sounds.rss" />
@@ -55,6 +58,7 @@
       <outline type="rss" text="B-Sides" xmlUrl="https://www.relay.fm/b-sides/feed" />
       <outline type="rss" text="Iradex" xmlUrl="http://feeds.feedburner.com/iradexpodcast" />
       <outline type="rss" text="Canal42.tv" xmlUrl="http://canal42.tv/podcast/feed.xml" />
+      <outline type="rss" text="IGN Hype" xmlUrl="http://ignhype.podbean.com/feed/" />
       <outline type="rss" text="Mamilos" xmlUrl="http://feeds.feedburner.com/mamilos" />
       <outline type="rss" text="Accidental Tech Podcast" xmlUrl="http://atp.fm/episodes?format=rss" />
       <outline type="rss" text="Café Brasil Podcast" xmlUrl="http://portalcafebrasil.com.br/tools/podcast.xml" />
